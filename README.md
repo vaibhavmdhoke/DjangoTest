@@ -1,2 +1,2 @@
 # DjangoTest
-Djange Framework
+Django Framework
